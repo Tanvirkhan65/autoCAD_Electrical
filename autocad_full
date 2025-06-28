@@ -7,4 +7,4 @@ day-2 = command line activate/deactivate ctrl+9,
         UCS user cordinate system
         unit
 day-3 = workspace settings,viewport setting,selection window
-day-4 = LIMIT settings,CIRCLE,COPY,TRIM,EXTEND,MOVE,ONSNAP
+day-4 = LIMIT settings,CIRCLE,COPY,TRIM,EXTEND,MOVE,ONSNAP,DELETE(SHORTCUT E)
