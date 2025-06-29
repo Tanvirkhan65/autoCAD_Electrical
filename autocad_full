@@ -9,4 +9,4 @@ day-2 = command line activate/deactivate ctrl+9,
 day-3 = workspace settings,viewport setting,selection window
 day-4 = LIMIT settings,CIRCLE,COPY,TRIM,EXTEND,MOVE,ONSNAP,DELETE(SHORTCUT E)
 day-5 = line,polyline,polyline edit(arc,half-width,length,width),arc
-day-6 = reactangle(area,dimention,rotation)(chamfer,elevation,fillet,thickness,width),polygon
+day-6 = reactangle(area,dimention,rotation)(chamfer,elevation,fillet,thickness,width),polygon(inscribe,circumcribe)
