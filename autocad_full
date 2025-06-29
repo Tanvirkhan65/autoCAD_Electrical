@@ -10,5 +10,5 @@ day-3 = workspace settings,viewport setting,selection window
 day-4 = LIMIT settings,CIRCLE,COPY,TRIM,EXTEND,MOVE,ONSNAP,DELETE(SHORTCUT E)
 day-5 = line,polyline,polyline edit(arc,half-width,length,width),arc
 day-6 = reactangle(area,dimention,rotation)(chamfer,elevation,fillet,thickness,width),polygon(inscribe,circumcribe)
-day-7 = Ellipse(axis end -> 1 axis full value) axis centre -> in both axis value should be given half
+day-7 = Ellipse(axis end -> 1 axis full value) axis centre -> in both axis value should be given half,elliptical arc),isometric drawing
                          -> 2 axis half value)
