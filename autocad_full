@@ -14,4 +14,8 @@ day-7 = Ellipse(axis end -> 1 axis full value) axis centre -> in both axis value
                          -> 2 axis half value)
 day-8 = rotate(copy,reference,reference point,reference angle,new angle),scale(scale factor,scale referance,scale point)
 day-9 = stretch,fillet(polyline,radius,trim,multiple),chamfer(polyline,radius,trim,multiple),offset(through,erase,layer)
-day-10 = 
+day-10 = properties toolbar colors
+         lineweight(line thickness)
+         linetype(linetype)
+         line type scale-lts(line type value changing 1,2,3 means value increase,0.1,0.2, means decrease )
+         transperancy
