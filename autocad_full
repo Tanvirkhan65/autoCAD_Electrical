@@ -18,4 +18,5 @@ day-10 = properties toolbar colors
          lineweight(line thickness)
          linetype(linetype)
          line type scale-lts(line type value changing 1,2,3 means value increase,0.1,0.2, means decrease )
-         transperancy
+         transperancy,
+         list
