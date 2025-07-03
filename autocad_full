@@ -20,3 +20,5 @@ day-10 = properties toolbar colors
          line type scale-lts(line type value changing 1,2,3 means value increase,0.1,0.2, means decrease )
          transperancy,
          list
+day-11 = Array rectangular(arrayrect)->count > column and row increase,decrease
+                                       spacing > space between row and column
