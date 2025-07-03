@@ -23,3 +23,4 @@ day-10 = properties toolbar colors
 day-11 = Array rectangular(arrayrect)->count > column and row increase,decrease
                                        spacing > space between row and column
                                        base point > change base point
+                                       associative > yes bydefault,no for array split 
