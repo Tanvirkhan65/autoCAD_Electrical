@@ -28,3 +28,7 @@ day-11 = Array rectangular(arrayrect)->count > column and row increase,decrease
                                         row > individual editing of row count and spacing row have incrimental elevation >incremental elevation increase distance between row array like stair  
                                        (shift + mouse wheel pan rotate axis )
                                         level > increase level of row incremental elevation works for row
+          polar array (arraypolar)-> first select object then base point of circle
+                                    items > how many items
+                                    angle between > angle between items
+                                    fill angle > fill full angle 
