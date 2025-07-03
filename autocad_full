@@ -25,4 +25,4 @@ day-11 = Array rectangular(arrayrect)->count > column and row increase,decrease
                                        base point > change base point
                                        associative > yes bydefault,no for array split 
                                         colums > individual editing of columns count and spacing
-                                        row > individual editing of row count and spacing row have incrimental elevation
+                                        row > individual editing of row count and spacing row have incrimental elevation >incremental elevation increase distance between row array like stair  (shift + mouse wheel pan rotate axis )
