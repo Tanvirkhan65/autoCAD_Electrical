@@ -1,4 +1,4 @@
-day-1 = line,selection
+sureday-1 = line,selection
 day-2 = command line activate/deactivate ctrl+9,
         full screen ctrl+0,
         workspace moving( pan )
@@ -33,4 +33,4 @@ day-11 = Array rectangular(arrayrect)->count > column and row increase,decrease
                                     angle between > angle between items
                                     fill angle > fill full angle 
                                     rotation items > rotate means rotate by circle,norotate same angle
-day-12 = Divide (div alwasy ask nunber of segment),select similar,
+day-12 = Divide (div alwasy ask nunber of segment),select similar, measure (measure always as length),
