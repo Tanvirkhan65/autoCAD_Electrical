@@ -1,4 +1,4 @@
-sureday-1 = line,selection
+day-1 = line,selection
 day-2 = command line activate/deactivate ctrl+9,
         full screen ctrl+0,
         workspace moving( pan )
