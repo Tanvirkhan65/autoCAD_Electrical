@@ -33,7 +33,7 @@ day-11 = Array rectangular(arrayrect)->count > column and row increase,decrease
                                     angle between > angle between items
                                     fill angle > fill full angle 
                                     rotation items > rotate means rotate by circle,norotate same angle
-day-12 = Divide (div alwasy ask nunber of segment),select similar, measure (measure always as length),path array(by default object placing on path by measure)
+day-12 = Divide, Measure, Point, Multiple Point, Point Style, ID Points, Divide (div alwasy ask nunber of segment),select similar, measure (measure always as length),path array(by default object placing on path by measure)
          path array(arraypath) -> Methods(div,measure)
                                   items
                                   align items
