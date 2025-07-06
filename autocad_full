@@ -40,4 +40,4 @@ day-12 = Divide, Measure, Point, Multiple Point, Point Style, ID Points, Divide 
                                   tangent direction
                                   circular path both works for path and circular array
 day-13 = spline(fit and control vertex,fit to control vertex,control vertex to fit),construction line,Ray,whipeout,region(for region command object need to be closed region),union command,subtract,intersect,
-         LENGTHEN,
+         LENGTHEN(delta->means length increase or decrease,percentage->means inc/dec by percentage,total->put the value to specify length
