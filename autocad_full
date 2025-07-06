@@ -39,4 +39,4 @@ day-12 = Divide, Measure, Point, Multiple Point, Point Style, ID Points, Divide 
                                   align items
                                   tangent direction
                                   circular path both works for path and circular array
-day-13 = spline(fit and control vertex,fit to control vertex,control vertex to fit),construction line,Ray,whipeout
+day-13 = spline(fit and control vertex,fit to control vertex,control vertex to fit),construction line,Ray,whipeout,region(for region command object need to be closed region)
