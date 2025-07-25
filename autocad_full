@@ -43,4 +43,5 @@ day-13 = spline(fit and control vertex,fit to control vertex,control vertex to f
          LENGTHEN(delta->means length increase or decrease,percentage->means inc/dec by percentage,total->put the value to specify length,dynamic->dynamicaly freehand inc/dec line,
          BREAK->break line specific,by point,BREAK AT POINT->make a line part by break at point
 day-14 = Linear, Aligned, Angular, Arc Length, Radius, Diameter, Ordinate), (Leader, Add Leader, Remove Leader) (Measure)
-day-15 = base line dimention,TOL
+day-15 = base line dimention,TOLarance
+day-16 = TEXT,Mtext(text to mtext convert->express tool then selec convert to MTEXT)
