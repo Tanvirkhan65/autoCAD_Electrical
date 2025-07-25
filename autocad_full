@@ -45,3 +45,4 @@ day-13 = spline(fit and control vertex,fit to control vertex,control vertex to f
 day-14 = Linear, Aligned, Angular, Arc Length, Radius, Diameter, Ordinate), (Leader, Add Leader, Remove Leader) (Measure)
 day-15 = base line dimention,TOLarance
 day-16 = TEXT,Mtext(text to mtext convert->express tool then selec convert to MTEXT)
+day-17 = dimention style (override,compare)
