@@ -50,4 +50,4 @@ day-18 = layer,quick layer,for industries plot should be 0.18mm layer for inch 0
          copy to clipboard(ctrl+c)
          copy with base point(ctrl+shift+c)
          image,pdf,attach import
-day-19 = Block(retain,convert to block,delete block)
+day-19 = Block(retain,convert to block,delete block),block(retain,create block,delete)
